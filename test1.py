@@ -11,6 +11,7 @@ print("PRENOM = ",prenom)
 print("YOUR AGE = ",age)
 print("DATE DE NAISSANCE = ",date)
 print("ROBOT OU HUMAIN = ",robot)
+print("welcome to ISIMM ")
 
 
 
